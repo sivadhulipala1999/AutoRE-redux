@@ -1,3 +1,6 @@
 data/redocred/analysis_redocred/redocred_train_analysis.json filter=lfs diff=lfs merge=lfs -text
 AutoRE/data/redocred/analysis_redocred/redocred_train_analysis.json filter=lfs diff=lfs merge=lfs -text
+AutoRE/data/train/D_R_H_F/train.json filter=lfs diff=lfs merge=lfs -text
+AutoRE/data/train/D_R_H_F_desc/train.json filter=lfs diff=lfs merge=lfs -text
+AutoRE/data/train/loras_chinese/fact/train.json filter=lfs diff=lfs merge=lfs -text
 *.json filter=lfs diff=lfs merge=lfs -text
